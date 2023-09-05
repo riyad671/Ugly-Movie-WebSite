@@ -11,13 +11,13 @@ h3{
     color: whitesmoke;
 }
 
-.topnav {
+.top-navigation {
     overflow: hidden;
     background-color: #131720;
     padding: 10px;
 }
 
-.topnav, a{
+.top-navigation a{
     float: left;
     display: block;
     color: whitesmoke;
@@ -26,4 +26,9 @@ h3{
     text-decoration: none;
     font-size: 1.2rem;
     text-transform: uppercase;
+}
+
+.top-navigation .search-container{
+    float: right;
+
 }
