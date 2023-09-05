@@ -40,3 +40,12 @@ form{
     display: flex;
     align-items: center;
 }
+
+input{
+    all: unset;
+    font: 15px system-ui;
+    color: blanchedalmond;
+    height: 100%;
+    width: 100%;
+    padding: 6px 9px;
+}
