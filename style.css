@@ -30,5 +30,13 @@ h3{
 
 .top-navigation .search-container{
     float: right;
+}
 
+form{
+    background-color: #151f30;
+    width: 300px;
+    height: 43px;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
 }
