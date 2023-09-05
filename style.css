@@ -55,3 +55,9 @@ input{
     width: 300px;
     border-radius: 19px;
 }
+
+.column{
+    float: left;
+    width: 25%;
+    padding: 10px 10px;
+}
