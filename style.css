@@ -1,26 +1,26 @@
-*{
+* {
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: #131720;
     font-family: sans-serif;
 }
 
-h3{
-    color: whitesmoke;
+h3 {
+    color: white;
 }
 
-.top-navigation {
+.topnav {
     overflow: hidden;
     background-color: #131720;
     padding: 10px;
 }
 
-.top-navigation a{
+.topnav a {
     float: left;
     display: block;
-    color: whitesmoke;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -28,41 +28,41 @@ h3{
     text-transform: uppercase;
 }
 
-.top-navigation .search-container{
+.topnav .search-container {
     float: right;
 }
 
-form{
+form {
     background-color: #151f30;
     width: 300px;
     height: 43px;
     border-radius: 11px;
     display: flex;
-    align-items: center;
+    alight-items: center;
 }
 
-input{
+input {
     all: unset;
     font: 15px system-ui;
-    color: blanchedalmond;
+    color: #fff;
     height: 100%;
     width: 100%;
     padding: 6px 9px;
 }
 
-.thumbnail{
+.thumbnail {
     height: 350px;
     width: 300px;
     border-radius: 19px;
 }
 
-.column{
+.column {
     float: left;
-    width: 20%;
+    width: 25%;
     padding: 10px 10px;
 }
 
-.card{
+.card {
     border-radius: 19px;
     padding: 15px;
     text-align: center;
